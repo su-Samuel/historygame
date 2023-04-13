@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/historygame/static/css/main.e6c13ad2.css",
+    "main.js": "/historygame/static/js/main.82d68358.js",
+    "index.html": "/historygame/index.html",
+    "main.e6c13ad2.css.map": "/historygame/static/css/main.e6c13ad2.css.map",
+    "main.82d68358.js.map": "/historygame/static/js/main.82d68358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.82d68358.js"
+  ]
+}

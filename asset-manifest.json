@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/historygame/static/css/main.e6c13ad2.css",
-    "main.js": "/historygame/static/js/main.82d68358.js",
+    "main.css": "/historygame/static/css/main.62e8a9cb.css",
+    "main.js": "/historygame/static/js/main.85407cbc.js",
+    "static/media/tank.svg": "/historygame/static/media/tank.d816754cbcac2a8aac517466df8b6028.svg",
     "index.html": "/historygame/index.html",
-    "main.e6c13ad2.css.map": "/historygame/static/css/main.e6c13ad2.css.map",
-    "main.82d68358.js.map": "/historygame/static/js/main.82d68358.js.map"
+    "main.62e8a9cb.css.map": "/historygame/static/css/main.62e8a9cb.css.map",
+    "main.85407cbc.js.map": "/historygame/static/js/main.85407cbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.82d68358.js"
+    "static/css/main.62e8a9cb.css",
+    "static/js/main.85407cbc.js"
   ]
 }
